@@ -18,3 +18,5 @@
 | duinomaker | https://duinomaker.top/ | duinomaker's blog |
 | LinghaoZ | https://zlhad.top/ | ZLH's blog |
 | wh1sper | http://wh1sper.cn/ | 聆听，低语者的诉求 |
+| Moroshima | https://kuroshima.eu.org | Moroshima's Blog |
+| 极速蜗牛 | https://www.jswn9945.xyz | 极速蜗牛的博客 |
