@@ -14,7 +14,7 @@
 | X3ZvaWQ | https://blog.x3zvawq.xyz/ | Nothing lasts forever. |
 | 许有栖 | https://stardline.com/ | 星列 project |
 | xjzsq | http://xjzsq.ren/ | 青い記憶 |
-| Matrix72 | https://www.matrix72.top/ | 最寻常或小意外,都欣喜去相爱 |
+| Matrix72 | https://www.mtx72.cc/ | To infinity and beyond. |
 | duinomaker | https://duinomaker.top/ | duinomaker's blog |
 | LinghaoZ | https://zlhad.top/ | ZLH's blog |
 | wh1sper | http://wh1sper.cn/ | 聆听，低语者的诉求 |
