@@ -21,3 +21,5 @@
 | Moroshima | https://kuroshima.eu.org | Moroshima's Blog |
 | 极速蜗牛 | https://www.jswn9945.xyz | 极速蜗牛的博客 |
 | Maxtune | https://mxte.cc | 人生路漫漫 白鹭常相伴 |
+| yumo | https://yumoyumo.top | yumo's blog |
+
