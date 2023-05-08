@@ -5,7 +5,7 @@
 
 | ID | HTML | DESCRIPTION |
 | -- | --   | --          |
-| Brethland | https://yuki.systems | PLT / Maths / Literature / Otaku |
+| Brethland | https://typ.moe | 北高文藝部 |
 | 0xfaner | https://blog.0xfaner.site | Just something trivial |
 | ChenKS | https://blog.cattchen.top | Enjoy JavaScript/TypeScript/Dart. Enjoy Coding. |
 | TinyHuang | https://zaiyewujiang.cn/ | 痒痒鼠咸鱼玩家/fw码农 |
