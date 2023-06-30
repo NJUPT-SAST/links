@@ -23,3 +23,4 @@
 | Maxtune | https://mxte.cc | 人生路漫漫 白鹭常相伴 |
 | yumo | https://yumoyumo.top | yumo's blog |
 | xun | https://blog.fooo.in | Keep it Simple & Stupid |
+| Love98 | https://blog.love98.net | Love98's Blog |
