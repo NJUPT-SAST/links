@@ -25,3 +25,4 @@
 | xun | https://blog.fooo.in | Keep it Simple & Stupid |
 | Love98 | https://blog.love98.net | Love98's Blog |
 | Aiden | https://aiden2014.github.io | Keep on keeping on |
+| aimixsaka | https://blog.aimisaka.site | A.S.K |
