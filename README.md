@@ -24,3 +24,4 @@
 | Aiden | https://aiden2014.github.io | Keep on keeping on |
 | aimixsaka | https://blog.aimisaka.site | A.S.K |
 | feellmoose | https://feellmoose.fun | 重建呀么重建中 |
+| Ming | https://minng.cc | Ming's Blog |
