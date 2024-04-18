@@ -27,3 +27,4 @@
 | rdququ | https://rdququ.top |  Do something that gives you comfort. |
 | Ming | https://minng.cc | Ming's Blog |
 | 萤火之光 | https://alampy.com | 愿用萤光，守护一方净土 |
+| Feipiao594 | https://feipiao594.github.io/ | 学习笔记与生活记录 |
